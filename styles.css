@@ -1,0 +1,22 @@
+body {
+    background-color: aquamarine;
+}
+
+.square-box {
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+    border: 2px solid whitesmoke;
+    background-color: black;
+    /* gap: 300px;
+    grid-template-columns: repeat(2, 3fr);
+    grid-template-rows: 200px; */
+    
+    
+}
+
+.container {
+    width: 300px;
+    height: 200px;
+}
+
